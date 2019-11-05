@@ -12,3 +12,11 @@ All the free ways you can host your dynamic (with backend) or static (frontend o
 1. [Heroku](http://heroku.com/)
 1. [AWS](https://aws.amazon.com/) (free but need card details)
 1. [Digital Ocean](https://www.digitalocean.com/) (free but need card details)
+
+### SQL Database
+
+1. [Elephant SQL for PostgreSQL](https://www.elephantsql.com/)
+
+### NoSQL Database
+
+1. [mLab for MongoDB](https://mlab.com/)
