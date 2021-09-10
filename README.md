@@ -16,8 +16,11 @@ All the free ways you can host your dynamic (with backend) or static (frontend o
 
 ### SQL Database
 
-1. [Elephant SQL for PostgreSQL](https://www.elephantsql.com/)
+1. [Planet Scale](https://planetscale.com/)
+2. [Supabase](https://supabase.io/)
+3. [Elephant SQL for PostgreSQL](https://www.elephantsql.com/)
 
 ### NoSQL Database
 
-1. [mLab for MongoDB](https://mlab.com/)
+1. [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+2. [FaunaDB](https://fauna.com/)
