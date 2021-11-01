@@ -11,9 +11,11 @@ All the free ways you can host your dynamic (with backend) or static (frontend o
 
 1. [Vercel](https://zeit.co/)
 2. [Railway](https://railway.app/)
-3. [Heroku](http://heroku.com/)
-4. [Digital Ocean](https://www.digitalocean.com/) (free but need card details)
-5. [AWS](https://aws.amazon.com/) (free but need card details)
+3. [Render](https://render.com/)
+4. [Begin](https://begin.com/)
+5. [Heroku](http://heroku.com/)
+6. [Digital Ocean](https://www.digitalocean.com/) (free but need card details)
+7. [AWS](https://aws.amazon.com/) (free but need card details)
 
 ### SQL Database
 
